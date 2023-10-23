@@ -2,7 +2,7 @@
 
 Introduction
 
-In the vast realm of Linux, IT and security professionals often find themselves in need of efficient tools and techniques to preview and navigate the intricate file system. This becomes essential for various tasks, from analyzing log files to inspecting configuration files. In this blog, we will delve into the fundamentals of navigating the Linux file system and introduce you to a set of invaluable commands and resources to make your journey smoother. As a seasoned blogger with over 20 years of experience, I'm excited to share my newfound knowledge about Linux.
+In the vast realm of Linux, IT and security professionals often find themselves in need of efficient tools and techniques to preview and navigate the intricate file system. This becomes essential for various tasks, from analyzing log files to inspecting configuration files. In this blog, we will delve into the fundamentals of navigating the Linux file system and introduce you to a set of invaluable commands and resources to make your journey smoother. As a Cybersecurity student, I'm excited to share my newfound knowledge about Linux.
 
 Understanding the Linux File System
 
