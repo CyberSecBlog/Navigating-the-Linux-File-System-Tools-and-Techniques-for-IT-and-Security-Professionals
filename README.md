@@ -1,4 +1,4 @@
-# Navigating-the-Linux-File-System-Tools-and-Techniques-for-IT-and-Security-Professionals
+# Navigating the Linux File System Tools and Techniques for IT and Security Professionals
 
 Introduction
 
