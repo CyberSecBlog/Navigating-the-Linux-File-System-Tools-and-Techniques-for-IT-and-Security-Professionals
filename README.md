@@ -1,7 +1,7 @@
+# Navigating the Linux File System - Tools and Techniques for IT and Security Professionals
+
 <img src="https://imgur.com/84D5YjN.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
-
-# Navigating the Linux File System - Tools and Techniques for IT and Security Professionals
 
 Introduction
 
